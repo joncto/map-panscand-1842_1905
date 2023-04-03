@@ -10,8 +10,8 @@ The map layer make use of the public domain map dataset “ne_10m_admin_0_countr
 ## Usage
 
 ### Present the map on your computer
-**You will soon find the web resources needed to see this in an interactive map.
+*You will soon find the web resources needed to see this in an interactive map.*
 
 ### View online
-When published, the map can also be viewed in a browser by entering the following URL: 
-https://htmlpreview.github.io/?https://github.com/joncto/map-panscand-1842_1905/blob/main/panscand/index.html
+*When published, the map can also be viewed in a browser by entering the following URL: 
+https://htmlpreview.github.io/?https://github.com/joncto/map-panscand-1842_1905/blob/main/panscand/index.html*
